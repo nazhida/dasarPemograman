@@ -16,8 +16,8 @@ function btnc() {
 
 // Ini kalo DOM pake addEventListener kan
 function tombol() {
-    const button = document.getElementById('buttonku')
-    const content = document.getElementById('kontenku')
+    const button = document.getElementById('buttonku');
+    const content = document.getElementById('kontenku');
 
     button.addEventListener('click', () => {
         content.style.display = 'block';
