@@ -14,7 +14,7 @@ function btnc() {
     content.innerHTML = '<h3>Ini Pengeliatan</h3>';
 };
 
-// Ini kalo DOM pake addEventListener kan
+// Ini kalo DOM pake addEventListener kan, ?
 function tombol() {
     const button = document.getElementById('buttonku');
     const content = document.getElementById('kontenku');
